@@ -1,0 +1,63 @@
+.par1 {
+font-size:x-large;
+color: #ffffff; 
+text-align: center;
+}
+#stih1 {
+    mix-blend-mode: difference;
+    color: white;
+    /* Для всего блока*/
+}
+#stih1 #abz1 {
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:;
+}
+#stih1 #abz2 {
+     font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:;
+}
+#stih1 #abz3 {
+    font-family:'Courier New',coursive;
+    text-align: center;
+    color:;
+}
+#stih1 #abz4 {
+    font-family:blippo,fantasy;
+    text-align: center;
+    color:;
+}
+#stih1 #abz5 {
+    font-family:florence,cursive;
+    text-align: center;
+    color:;
+}
+#stih1 #abz6 {
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    color:;
+}
+.img1 {
+text-align: center;
+}
+#tableOne {
+    color: #D2691E;
+    background-color: white;
+    text-align:center;
+}
+.link1 {
+    text-align: center;
+}
+.link2 {
+ text-align: center;
+}
+    A {
+    color:blue;
+}
+        A:visited {
+            color: #DB7093;
+        }
+        A:active {
+            color: #FFFF00;
+        }
